@@ -1,0 +1,1 @@
+winpty docker run --rm -it -v //c/Users/kan/Documents/docker/zplug/://home/kan/.zplug/ kan_dev
