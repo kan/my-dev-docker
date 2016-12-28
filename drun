@@ -1,1 +1,1 @@
-winpty docker run --rm -it -v /$(pwd)/zplug/://home/kan/.zplug/ kan_dev
+winpty docker run --rm -it -v /$(pwd)/zplug/://home/kan/.zplug/ -v /$(pwd)/data/://data/ kan_dev
